@@ -1,0 +1,10 @@
+{
+  "name": "My PWA",
+  "icons": [
+    {
+      "src": "ux.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
